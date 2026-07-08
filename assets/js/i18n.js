@@ -11,7 +11,7 @@ window.TRANSLATIONS = {
     "nav.books": "Books & Writing",
     "nav.contact": "Contact",
 
-    "hero.eyebrow": "Maastricht, The Netherlands — Dhaka-born",
+    "hero.eyebrow": "Maastricht, The Netherlands",
     "hero.tagline": "Telecom & Technology Executive · Former Special Assistant to the Chief Adviser, Government of Bangladesh · Author",
     "hero.intro": "Twenty years building the networks, data centres, and digital policy that connect nations — from radio-access network architecture at a leading European operator to the cabinet table of Bangladesh's interim government, with nine published books along the way.",
     "hero.cta_primary": "View my career",
@@ -39,7 +39,7 @@ window.TRANSLATIONS = {
     "public.badge": "Appointed under the interim government of Nobel Peace Prize laureate Professor Muhammad Yunus",
 
     "card1.title": "Digital Governance & Law",
-    "card1.body": "Principal contributor to Bangladesh's first Personal Data Protection Act and Cyber Security Act, and its National Data Governance Act — while repealing nine laws previously used to harass and arrest citizens.",
+    "card1.body": "Principal contributor to Bangladesh's first Personal Data Protection Act, Cyber Safety Act, and its National Data Governance Act — while repealing previously enacted draconian cyber laws and clauses.",
     "card2.title": "National Digital Strategy",
     "card2.body": "Principal author of the National Digital Transformation Strategy 2025–2030 and the Posts & Telecommunications Transformation Strategy, charting the country's digital and telecom direction to 2030.",
     "card3.title": "Digital Public Infrastructure",
@@ -110,7 +110,7 @@ window.TRANSLATIONS = {
     "nav.books": "Boeken & Schrijven",
     "nav.contact": "Contact",
 
-    "hero.eyebrow": "Maastricht, Nederland — geboren in Bangladesh",
+    "hero.eyebrow": "Maastricht, Nederland",
     "hero.tagline": "Telecom- en technologiebestuurder · Voormalig Speciaal Assistent van de Chief Adviser, regering van Bangladesh · Auteur",
     "hero.intro": "Twintig jaar bouwen aan de netwerken, datacenters en digitale beleidskaders die naties verbinden — van radionetwerkarchitectuur bij een toonaangevende Europese operator tot aan de kabinetstafel van de interim-regering van Bangladesh, met negen gepubliceerde boeken onderweg.",
     "hero.cta_primary": "Bekijk mijn loopbaan",
@@ -138,7 +138,7 @@ window.TRANSLATIONS = {
     "public.badge": "Benoemd onder de interim-regering van Nobelprijswinnaar professor Muhammad Yunus",
 
     "card1.title": "Digitaal bestuur & wetgeving",
-    "card1.body": "Hoofdbijdrager aan Bangladesh's eerste wet op gegevensbescherming en cyberbeveiligingswet, en de nationale wet op datagovernance — met de intrekking van negen wetten die eerder werden gebruikt om burgers te intimideren en te arresteren.",
+    "card1.body": "Hoofdbijdrager aan Bangladesh's eerste wet op gegevensbescherming en cyberveiligheidswet, en de nationale wet op datagovernance — met de intrekking van eerder aangenomen draconische cyberwetten en -bepalingen.",
     "card2.title": "Nationale digitale strategie",
     "card2.body": "Hoofdauteur van de Nationale Strategie voor Digitale Transformatie 2025–2030 en de Transformatiestrategie voor Post en Telecommunicatie, die de digitale en telecomkoers van het land tot 2030 uitzet.",
     "card3.title": "Digitale publieke infrastructuur",
@@ -209,7 +209,7 @@ window.TRANSLATIONS = {
     "nav.books": "বই ও লেখালেখি",
     "nav.contact": "যোগাযোগ",
 
-    "hero.eyebrow": "মাস্ট্রিখট, নেদারল্যান্ডস · জন্ম বাংলাদেশে",
+    "hero.eyebrow": "মাস্ট্রিখট, নেদারল্যান্ডস",
     "hero.tagline": "টেলিকম ও প্রযুক্তি নির্বাহী · বাংলাদেশ সরকারের প্রধান উপদেষ্টার সাবেক বিশেষ সহকারী · লেখক",
     "hero.intro": "বিশ বছর ধরে দেশগুলোকে সংযুক্ত করে এমন নেটওয়ার্ক, ডেটা সেন্টার ও ডিজিটাল নীতিমালা গড়ে তোলার অভিজ্ঞতা — ইউরোপের একটি শীর্ষস্থানীয় টেলিকম অপারেটরের রেডিও অ্যাক্সেস নেটওয়ার্ক স্থাপত্য থেকে শুরু করে বাংলাদেশের অন্তর্বর্তী সরকারের মন্ত্রিসভা পর্যন্ত, সঙ্গে প্রকাশিত নয়টি বই।",
     "hero.cta_primary": "কর্মজীবন দেখুন",
@@ -231,13 +231,13 @@ window.TRANSLATIONS = {
     "stats.4.label": "প্রকাশিত বই",
 
     "public.eyebrow": "রাষ্ট্রীয় দায়িত্ব",
-    "public.heading": "রাষ্ট্রীয় দায়িত্ব ও নীতিগত প্রভাব",
+    "public.heading": "রাষ্ট্রীয় দায়িত্ব ও নীতি প্রণয়ন",
     "public.subheading": "বাংলাদেশের প্রধান উপদেষ্টার বিশেষ সহকারী (প্রতিমন্ত্রীর মর্যাদা), ২০২৫–২০২৬",
     "public.intro": "নোবেল শান্তি পুরস্কারজয়ী অধ্যাপক মুহাম্মদ ইউনূসের নেতৃত্বাধীন অন্তর্বর্তী সরকার কর্তৃক নিযুক্ত হয়ে, জনাব তৈয়্যব বারোটি রাষ্ট্রায়ত্ত টেলিকম ও প্রযুক্তি প্রতিষ্ঠান এবং ২৬টি জাতীয় প্রকল্পের একটি পোর্টফোলিও পরিচালনা করেন, এবং কয়েক দশকের মধ্যে বাংলাদেশের অন্যতম গুরুত্বপূর্ণ ডিজিটাল সংস্কারে নেতৃত্ব দেন।",
     "public.badge": "নোবেল শান্তি পুরস্কারজয়ী অধ্যাপক মুহাম্মদ ইউনূসের অন্তর্বর্তী সরকারের অধীনে নিযুক্ত",
 
     "card1.title": "ডিজিটাল সুশাসন ও আইন",
-    "card1.body": "বাংলাদেশের প্রথম ব্যক্তিগত তথ্য সুরক্ষা আইন, সাইবার নিরাপত্তা আইন এবং জাতীয় তথ্য সুশাসন আইনের অন্যতম প্রধান রূপকার — পাশাপাশি নাগরিক হয়রানিতে ব্যবহৃত নয়টি আইন বাতিলে ভূমিকা রাখেন।",
+    "card1.body": "বাংলাদেশের প্রথম ব্যক্তিগত তথ্য সুরক্ষা আইন, সাইবার সুরক্ষা আইন এবং জাতীয় তথ্য সুশাসন আইনের অন্যতম প্রধান রূপকার — পাশাপাশি পূর্বে প্রণীত নিবর্তনমূলক সাইবার আইন ও ধারা বাতিলে ভূমিকা রাখেন।",
     "card2.title": "জাতীয় ডিজিটাল কৌশল",
     "card2.body": "জাতীয় ডিজিটাল রূপান্তর কৌশল ২০২৫–২০৩০ এবং ডাক ও টেলিযোগাযোগ রূপান্তর কৌশলের প্রধান প্রণেতা, যা ২০৩০ সাল পর্যন্ত দেশের ডিজিটাল ও টেলিকম দিকনির্দেশনা তৈরি করে।",
     "card3.title": "ডিজিটাল পাবলিক ইনফ্রাস্ট্রাকচার",
