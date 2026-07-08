@@ -286,6 +286,25 @@ a { color: inherit; }
   .hero-media { order: -1; max-width: 260px; margin: 0 auto 8px; }
 }
 
+@media (max-width: 640px) {
+  .hero { padding: 40px 0 56px; }
+  .hero-inner { text-align: center; gap: 20px; }
+  .hero-text { display: flex; flex-direction: column; align-items: center; }
+  .hero h1 { align-items: center; }
+  .tagline, .hero-intro { max-width: 40ch; }
+  .hero-actions { justify-content: center; margin-top: 1.2em; }
+
+  /* Small circular avatar instead of a full hero portrait, so name,
+     tagline, and CTAs are visible without scrolling on phones. */
+  .hero-media { max-width: 116px; margin: 0 auto; }
+  .portrait {
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-position: top center;
+    box-shadow: 0 10px 24px -10px rgba(18, 23, 31, 0.35);
+  }
+}
+
 /* ---------- Buttons ---------- */
 .btn {
   display: inline-flex;
